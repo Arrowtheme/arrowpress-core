@@ -1,28 +1,28 @@
 {
-  "name": "ArrowPress Core",
-  "slug": "arrowpress-core",
-  "version": "2.1.1",
-  "author": "https://arrowpress.com",
-  "author_profile": "https://arrowpress.com",
-  "requires": "7.0",
-  "tested": "6.0",
-  "compatibility": {},
-  "rating": 0,
-  "num_ratings": 0,
-  "ratings": {},
-  "downloaded": 0,
-  "last_updated": "",
-  "added": "",
-  "homepage": "https://arrowtheme.com/",
-  "sections": {
-    "description": "@todo"
-  },
-  "short_description": "The Ultimate Core Processor of all WordPress themes by ArrowTheme.",
-  "download_link": "https://updates.arrowtheme.com/thim-envato-market/download-plugin/?plugin=arrowpress-core.zip",
-  "tags": {},
-  "donate_link": "",
-  "banners": {
-    "low": "https://arrowtheme.github.io/arrowpress-core/static/banner-772x250.jpg",
-    "high": "https://arrowtheme.github.io/arrowpress-core/static/banner-1544x500.jpg"
-  }
+    "name": "ArrowPress Core",
+    "slug": "arrowpress-core",
+    "version": "2.1.2",
+    "author": "https://arrowpress.com",
+    "author_profile": "https://arrowpress.com",
+    "requires": "7.0",
+    "tested": "6.0",
+    "compatibility": {},
+    "rating": 0,
+    "num_ratings": 0,
+    "ratings": {},
+    "downloaded": 0,
+    "last_updated": "",
+    "added": "",
+    "homepage": "https://arrowtheme.com/",
+    "sections": {
+        "description": "@todo"
+    },
+    "short_description": "The Ultimate Core Processor of all WordPress themes by ArrowTheme.",
+    "download_link": "https://updates.arrowtheme.com/thim-envato-market/download-plugin/?plugin=arrowpress-core.zip",
+    "tags": {},
+    "donate_link": "",
+    "banners": {
+        "low": "https://arrowtheme.github.io/arrowpress-core/static/banner-772x250.jpg",
+        "high": "https://arrowtheme.github.io/arrowpress-core/static/banner-1544x500.jpg"
+    }
 }
